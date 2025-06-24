@@ -10,10 +10,7 @@ A Java-based console application for booking plane tickets. Designed for learnin
 - [Getting Started](#getting-started)  
   - [Prerequisites](#prerequisites)  
   - [Setup & Running](#setup--running)  
-- [Usage](#usage)  
-- [Project Structure](#project-structure)  
-- [Contributing](#contributing)  
-- [License](#license)  
+- [Usage](#usage)   
 
 ---
 
